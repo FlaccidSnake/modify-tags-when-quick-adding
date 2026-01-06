@@ -1,0 +1,10 @@
+{
+    "package": "modify_tags_when_quick_adding",
+    "name": "Modify Tags When Quick Adding",
+    "author": "FlaccidSnake",
+    "version": "1.0.0",
+    "homepage": "",
+    "conflicts": [],
+    "min_anki_version": "24.06",
+    "max_anki_version": ""
+}
